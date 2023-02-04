@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-smilga-course/static/css/main.580c28a3.css",
+    "main.js": "/react-smilga-course/static/js/main.03d26950.js",
+    "index.html": "/react-smilga-course/index.html",
+    "main.580c28a3.css.map": "/react-smilga-course/static/css/main.580c28a3.css.map",
+    "main.03d26950.js.map": "/react-smilga-course/static/js/main.03d26950.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.580c28a3.css",
+    "static/js/main.03d26950.js"
+  ]
+}
